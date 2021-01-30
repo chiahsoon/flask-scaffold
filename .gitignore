@@ -1,0 +1,9 @@
+/.idea
+/venv
+__pycache__
+.DS_Store
+.pytest_cache
+
+# /configurations/test.yaml
+# /configurations/staging.yaml
+# /configurations/live.yaml

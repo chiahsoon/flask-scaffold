@@ -1,0 +1,7 @@
+# Database Configurations
+db_url_prefix: mysql+pymysql
+db_user: root
+db_password: "" # Cannot be totally empty
+db_host: db
+db_port: 3306
+db_name: scaffold
